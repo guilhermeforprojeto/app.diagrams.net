@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T18:16:04.686Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="McfxwauTS8Npv3uqPZH-" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T18:27:33.161Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="iaOyofGMoleoC90lWCXC" version="20.8.20" type="github">
   <diagram name="Page-1" id="sNNtPzumpdAR1uJNf4cF">
-    <mxGraphModel dx="1387" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7VVrD5wAg-Hy9BpYoBc0-1" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7VVrD5wAg-Hy9BpYoBc0-9" value="Controlar Estado" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="666.11" y="520" width="142.22" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="7VVrD5wAg-Hy9BpYoBc0-16" value="Regras de Negocio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="142.22" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="7VVrD5wAg-Hy9BpYoBc0-18" value="Tratar Resposta &lt;br&gt;da API" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="330" width="142.22" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="7VVrD5wAg-Hy9BpYoBc0-19" value="Validar Senha" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="666.11" y="220" width="142.22" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="7VVrD5wAg-Hy9BpYoBc0-20" value="Renderizar View" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="513" y="150" width="142.22" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="7VVrD5wAg-Hy9BpYoBc0-21" value="Validar Email" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="142.22" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="7VVrD5wAg-Hy9BpYoBc0-22" value="Gravar dados &lt;br&gt;no cache" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="142.22" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="7VVrD5wAg-Hy9BpYoBc0-24" value="Tratar Erros&amp;nbsp;&lt;br&gt;da API" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="700" y="420" width="142.22" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="7VVrD5wAg-Hy9BpYoBc0-25" value="Navegação" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="420" width="142.22" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="7VVrD5wAg-Hy9BpYoBc0-26" value="Comunicar com&amp;nbsp;&lt;br&gt;API" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="513.89" y="604" width="142.22" height="74" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
